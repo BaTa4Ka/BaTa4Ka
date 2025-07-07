@@ -4,9 +4,11 @@
 
 Welcome to my GitHub profile! I love building things with code, learning new technologies, and exploring the world of software development.
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://tenor.com/fgNK7ytB5t5.gif" alt="Coding GIF" />
+</p>
 
-<div class="tenor-gif-embed" data-postid="4286364764351409871" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/peach-goma-gif-4286364764351409871">Peach Goma Sticker</a>from <a href="https://tenor.com/search/peach+goma-stickers">Peach Goma Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
