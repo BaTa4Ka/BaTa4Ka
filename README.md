@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 📫 How to reach me: aufmega1@gmail.com
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
