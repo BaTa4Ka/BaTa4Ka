@@ -42,7 +42,7 @@
 
 ### 🎮 Game Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,cs" height="50" alt="Game Dev" />
+  <img src="https://skillicons.dev/icons?i=unity,blender" height="50" alt="Game Dev" />
 </div>
 
 ### ☁️ Cloud & Database
