@@ -32,36 +32,27 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" title="C"/> 
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java"/> 
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript"/> 
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" title="Python"/> 
-  <img src="https://skillicons.dev/icons?i=r" height="50" alt="R" title="R"/> 
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash" title="Bash"/> 
+  <img src="https://skillicons.dev/icons?i=java,cs,c,js,py,r,bash" height="50" alt="Languages" />
 </div>
 
-### 🌐 Web Development
+### 🌐 Web Development & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5"/> 
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3"/> 
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js" title="Vue.js"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" title="Node.js"/> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" title="Bootstrap"/> 
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,vue,react,nodejs,html,css,tailwind,bootstrap" height="50" alt="Web Stack" />
+</div>
+
+### 🎮 Game Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender,cs" height="50" alt="Game Dev" />
 </div>
 
 ### ☁️ Cloud & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" title="Firebase"/> 
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="Google Cloud" title="Google Cloud Platform"/> 
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" title="MySQL"/> 
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,gcp" height="50" alt="Database" />
 </div>
 
-### 🛠️ Development Tools
+### 🛠️ Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git"/> 
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub"/> 
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" title="Postman"/> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="Android Studio" title="Android Studio"/> 
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,androidstudio,linux,vscode" height="50" alt="Tools" />
 </div>
 
 ---
