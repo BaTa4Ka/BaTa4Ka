@@ -32,7 +32,7 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,c,js,py,r,bash" height="50" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,js,py,r,bash" height="50" alt="Programming Languages" />
 </div>
 
 ### 🌐 Web Development & Frameworks
@@ -42,17 +42,21 @@
 
 ### 🎮 Game Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender" height="50" alt="Game Dev" />
+  <img src="https://skillicons.dev/icons?i=unity,blender" height="50" alt="Game Development" />
 </div>
 
 ### ☁️ Cloud & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,gcp" height="50" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,postgres,mysql,firebase" height="50" alt="Cloud and Database" />
+</div>
+
+<div align="center">
+  <sub>AWS: S3 · EMR · EC2 · EBS · Auto Scaling · Apache Spark · Apache Druid · Apache Airflow · Hadoop</sub>
 </div>
 
 ### 🛠️ Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,androidstudio,linux,vscode" height="50" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jenkins,docker,postman,androidstudio,linux,vscode" height="50" alt="Tools and DevOps" />
 </div>
 
 ---
